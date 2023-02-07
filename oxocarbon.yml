@@ -1,0 +1,50 @@
+colors: 
+  primary:
+    background: '#161616'
+    foreground: '#ffffff'
+
+  # Normal colors
+  bright:
+    black:   '#37474F'
+    red:     '#ee5396'
+    green:   '#3ddbd9'
+    yellow:  '#ff6f00'
+    blue:    '#78a9ff'
+    magenta: '#be95ff'
+    cyan:    '#82cfff'
+    white:   '#ffffff'
+ 
+  # Bright colors
+  normal:
+    black:   '#131313'
+    red:     '#ff7eb6'
+    green:   '#08bdba'
+    yellow:  '#ffab91'
+    blue:    '#78a9ff'
+    magenta: '#be95ff'
+    cyan:    '#82cfff'
+    white:   '#fafafa'
+
+
+# oxocarbon palette 
+# 161616 black
+# ffffff white
+# 78a9ff lightblue - purple
+# 37474F darkgrey
+# 90A4AE lightgrey
+# 525252 grey
+# 08bdba cyan
+# ff7eb6 lightred
+# ee5396 red
+# ff6f00 yellow
+# 0f62fe darkblue
+# 673ab7 magenta
+# 42be65 green
+# be95ff lightmagenta
+# ffab91 lightyellow
+# 3ddbd9 lightcyan
+# 33b1ff blue
+# 82cfff lightblue
+# 131313 black
+# fafafa white
+
